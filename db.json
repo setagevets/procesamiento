@@ -1,50 +1,5 @@
- [
-   {
-      "matid": "UUUU",
-      "fptid": "BBAACC",
-      "cgenes": "AJAHHS",
-      "gencd": "FDJKS",
-      "line_lincd": "BBAACC",
-      "pidtc": "BBAACC",
-      "pol_polid": "BBAACC",
-      "pol_poltp": "BBAACC",
-      "pol_hrvmd": "SCAACC",
-      "pol_rcrol": "BBAACC",
-      "fppss_pltid": "SCAACC",
-      "fppss_barcd": "BB4688SCAACC",
-      "fppss_subid": "SCAACC",
-      "fppss_mkrsn": "SCAACC",
-      "fppss_rprcp": "SCAACC",
-      "mppss_pltid": "SCAACC",
-      "mppss_barcd": "SCAACC",
-      "mppss_subid": "GGFF",
-      "mppss_mkrsn": "GGFF",
-      "mppss_rprcp": "GGFF",
-      "admnc": "GGFF",
-      "poltp": "GGFF8",
-      "prorp": "GGFF",
-      "abbrc": "GGFF",
-      "ggorg": "GGFF",
-      "hghnm": "GGFF",
-      "mvrmk": "GGFF",
-      "pdgre": "GRR",
-      "gna_crsno": "GRR",
-      "dmlot_lotid": "GRR",
-      "crtdt": "GRR",
-      "fppss_maxrow": "GRR",
-      "fppss_maxrng": "GRR",
-      "fppss_minrow": "ZZZTR",
-      "dmlot_mst_mstsl": "ZZZTR",
-      "precd": "ZZZTR",
-      "bgrp_bgpcd": "ZZZTR",
-      "fppss_minrng": "ZZZTR",
-      "bid": "ZZZTR",
-      "fparm_matid": "GBG",
-      "remark": "OOOPUYT",
-      "altid": "OOOPUYT",
-      "containeruuid": "OOOPUYT"
-   }
-]
-  
-  
-}
+matid,fptid,cgenes,gencd,line_lincd,pidtc,pol_polid,pol_poltp,pol_hrvmd,pol_rcrol,fppss_pltid,fppss_barcd,fppss_subid,fppss_mkrsn,fppss_rprcp,mppss_pltid,mppss_barcd,mppss_subid,mppss_mkrsn,mppss_rprcp,admnc,poltp,prorp,abbrc,ggorg,hghnm,mvrmk,pdgre,gna_crsno,dmlot_lotid,crtdt,fppss_maxrow,fppss_maxrng,fppss_minrow,dmlot_mst_mstsl,precd,bgrp_bgpcd,fppss_minrng,bid,fparm_matid,remark,altid,containeruuid
+BBKFJDKFJ,CCYYYBBAACC,DDAJAHHS,EEFDJKS,BBAACC,BBAACC,BBAACC,BBAACC,SCAACC,IIBBAACC,SCAACC,BB4688SCAACC,SCAACC,SCAACC,SCAACC,SCAACC,SCAACC,GGFF,GGFF,GGFF,GGFF,GGFF8,GGFF,HHHGGFF,GGFTTF,TTTGGFF,GGFF,GRR,GRR,GRR,GRR,GRR,GRR,ZZZTR,ZZZTR,ZZZTR,ZZZTR,ZZZTR,ZZZTR,GBG,OOOPUYT,OOOPUYT,OOOPUYT
+KFJDKFJ,YYYBBAACC,AJAHHS,FDJKS,BBAACC,BBAACC,BBAACC,BBAACC,SCAACC,IIBBAACC,SCAACC,BB4688SCAACC,SCAACC,SCAACC,SCAACC,SCAACC,SCAACC,GGFF,GGFF,GGFF,GGFF,GGFF8,GGFF,HHHGGFF,GGFTTF,TTTGGFF,GGFF,GRR,GRR,GRR,GRR,GRR,GRR,ZZZTR,ZZZTR,ZZZTR,ZZZTR,ZZZTR,ZZZTR,GBG,OOOPUYT,OOOPUYT,OOOPUYT
+UUUU,BBAACC,AJAHHS,FDJKS,BBAACC,BBAACC,BBAACC,BBAACC,SCAACC,BBAACC,SCAACC,BB4688SCAACC,SCAACC,SCAACC,SCAACC,SCAACC,SCAACC,GGFF,GGFF,GGFF,GGFF,GGFF8,GGFF,GGFF,GGFF,GGFF,GGFF,GRR,GRR,GRR,GRR,GRR,GRR,ZZZTR,ZZZTR,ZZZTR,ZZZTR,ZZZTR,ZZZTR,GBG,OOOPUYT,OOOPUYT,OOOPUYT
+
