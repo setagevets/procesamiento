@@ -1,5 +1,4 @@
 [
-    { "MATID": "BBKFJDKF", "FPTID": "CCYYYBBAACC", "CGENES": "DDAJAHHS", "GENCD": "EEFDJKS" },
-    { "MATID": "KFJDKFJ", "FPTID": "YYYBBAACC", "CGENES": "AJAHHS", "GENCD": "FDJKS" },
-    { "MATID": "UUUU", "FPTID": "BBAACC", "CGENES": "AJAHHS",  "GENCD": "FDJKS"}
+    {  "matid" ": "BBKFJDKF", "fptid": "CCYYYBBAACC", "cgenes": "DDAJAHHS", "gencd": "EEFDJKS" },
+   
 ]
