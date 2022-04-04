@@ -1,6 +1,6 @@
 [
-    { "matid": "BBKFJDKF", "fptid": "CCYYYBBAACC", "cgenes": "DDAJAHHS", "gencd": "EEFDJKS" },
-    { "matid": "BBKFJDKF", "fptid": "CCYYYBBAACC", "cgenes": "DDAJAHHS", "gencd": "EEFDJKS"},
-    { "matid": "BBKFJDKF", "fptid": "CCYYYBBAACC", "cgenes": "DDAJAHHS", "gencd": "EEFDJKS"}
+    { "Matid": "BBKFJDKF", "Fptid": "CCYYYBBAACC", "Cgenes": "DDAJAHHS", "Gencd": "EEFDJKS" },
+    { "Matid": "BBKFJDKF", "Fptid": "CCYYYBBAACC", "Cgenes": "DDAJAHHS", "Gencd": "EEFDJKS"},
+    { "Matid": "BBKFJDKF", "Fptid": "CCYYYBBAACC", "Cgenes": "DDAJAHHS", "Gencd": "EEFDJKS"}
    
 ]
