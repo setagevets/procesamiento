@@ -1,6 +1,6 @@
 [
-    { "Matid": "21GD001516", "Fptid": "CCYYYBBAACC", "Cgenes": "DDAJAHHS", "Gencd": "EEFDJKS" },
-    { "Matid": "21GD001517", "Fptid": "CCYYYBBAACC", "Cgenes": "DDAJAHHS", "Gencd": "EEFDJKS"},
-    { "Matid": "21GD001518", "Fptid": "CCYYYBBAACC", "Cgenes": "DDAJAHHS", "Gencd": "EEFDJKS"}
+    { "Matid": "21GD001516", "Fptid": "CCYYYBBAACC", "Cgenes": "DDAJAHHS", "Gencd": "EEFDJKS","Line_lincd": "BBAACC", "Pidtc": "BBAACC", "Pol_polid": "BBAACC", "Pol_poltp": "BBAACC" },
+    { "Matid": "21GD001517", "Fptid": "CCYYYBBAACC", "Cgenes": "DDAJAHHS", "Gencd": "EEFDJKS","Line_lincd": "BBAACC", "Pidtc": "BBAACC", "Pol_polid": "BBAACC", "Pol_poltp": "BBAACC"},
+    { "Matid": "21GD001518", "Fptid": "CCYYYBBAACC", "Cgenes": "DDAJAHHS", "Gencd": "EEFDJKS","Line_lincd": "BBAACC", "Pidtc": "BBAACC", "Pol_polid": "BBAACC", "Pol_poltp": "BBAACC"}
    
 ]
