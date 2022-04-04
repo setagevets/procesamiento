@@ -1,5 +1,5 @@
 [
-    { "make": "RRTYU", "model": "WEERT", "price": 35000 },
-    { "make": "ERETY", "model": "WERT", "price": 32000 },
-    { "make": "POERT", "model": "OEIDT", "price": 72000 }
+    { "MAT:MATID": "RRTYU", "model": "WEERT", "price": 35000 },
+    { "MAT:MATID": "ERETY", "model": "WERT", "price": 32000 },
+    { "MAT:MATID": "POERT", "model": "OEIDT", "price": 72000 }
 ]
