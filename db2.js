@@ -1,3 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+},
+  
+  "columnas":
+
+
+
+
+
+
+
+
+
+
 [{"Field":"matid",
   "Type":"varchar(255)",
   "Collation":"utf8mb4_unicode_ci",
