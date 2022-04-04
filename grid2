@@ -1,5 +1,5 @@
 [
-    { "MAT:MATID": "RRTYU", "model": "WEERT", "price": 35000 },
-    { "MAT:MATID": "ERETY", "model": "WERT", "price": 32000 },
-    { "MAT:MATID": "POERT", "model": "OEIDT", "price": 72000 }
+    { "MATID": "RRTYU", "model": "WEERT", "price": 35000 },
+    { "MATID": "ERETY", "model": "WERT", "price": 32000 },
+    { "MATID": "POERT", "model": "OEIDT", "price": 72000 }
 ]
